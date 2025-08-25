@@ -1,14 +1,12 @@
 ## Codeforces Submissions
-
-*Auto-generated with ❤️ using [Codeforces Submission Fetcher](https://github.com/Andrew-Velox/Codeforces-Submission-Fetcher-Extension)*
-
 ## Introduction
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
 
 • **Codeforces**
 
-> Codeforces is a website which hosts competitive programming contests: [http://codeforces.com](http://codeforces.com)
+> Codeforces is a website which hosts competitive programming contests. 
+> my codeforces ID: [https://codeforces.com/profile/ApuYe](https://codeforces.com/profile/ApuYe)
 
 
 
