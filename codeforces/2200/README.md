@@ -1,0 +1,16 @@
+# Codeforces 2200 Rating Submissions
+
+| # | Title | Solution | Tags | Submitted |
+|:-:|-------|----------|------|-----------|
+| 12 | [E - Special Segments of Permutation](https://codeforces.com/contest/1156/problem/E) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1156/submission/329279132) | `data structures` `divide and conquer` `dsu` `two pointers` `*2200` | Jul/17/2025 11:32 AM |
+| 11 | [D - Magic Numbers](https://codeforces.com/contest/628/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/628/submission/326588310) | `dp` `*2200` | Jun/30/2025 07:25 AM |
+| 10 | [C - Gerald and Giant Chess](https://codeforces.com/contest/559/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/559/submission/323011960) | `combinatorics` `dp` `math` `number theory` `*2200` | Jun/05/2025 08:30 PM |
+| 9 | [E - Compatible Numbers](https://codeforces.com/contest/165/problem/E) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/165/submission/322645822) | `bitmasks` `brute force` `dfs and similar` `dp` `*2200` | Jun/03/2025 04:31 PM |
+| 8 | [D - Tree Requests](https://codeforces.com/contest/570/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/570/submission/322514968) | `binary search` `bitmasks` `constructive algorithms` `dfs and similar` `graphs` `trees` `*2200` | Jun/02/2025 05:57 PM |
+| 7 | [E - XOR and Favorite Number](https://codeforces.com/contest/617/problem/E) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/617/submission/322063080) | `data structures` `*2200` | May/30/2025 08:04 PM |
+| 6 | [G - Build an Array](https://codeforces.com/contest/2114/problem/G) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2114/submission/321880227) | `brute force` `constructive algorithms` `dp` `greedy` `math` `number theory` `*2200` | May/29/2025 01:21 PM |
+| 5 | [C - Circular RMQ](https://codeforces.com/contest/52/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/52/submission/321174364) | `data structures` `*2200` | May/25/2025 05:26 AM |
+| 4 | [D - Powerful array](https://codeforces.com/contest/86/problem/D) | [C++20 (GCC 13-64)](https://codeforces.com/contest/86/submission/319576894) | `data structures` `implementation` `math` `two pointers` `*2200` | May/14/2025 06:33 AM |
+| 3 | [G1 - Permutation Problem (Simple Version)](https://codeforces.com/contest/1986/problem/G1) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1986/submission/267109961) | `binary search` `brute force` `combinatorics` `data structures` `math` `number theory` `*2200` | Jun/24/2024 05:49 AM |
+| 2 | [G2 - Division + LCP (hard version)](https://codeforces.com/contest/1968/problem/G2) | [C++17 (GCC 7-32)](https://codeforces.com/contest/1968/submission/259429088) | `binary search` `brute force` `data structures` `dp` `hashing` `math` `string suffix structures` `strings` `*2200` | May/04/2024 05:28 AM |
+| 1 | [E1 - Minibuses on Venus (easy version)](https://codeforces.com/contest/1808/problem/E1) | [C++20 (GCC 11-64)](https://codeforces.com/contest/1808/submission/199762416) | `combinatorics` `divide and conquer` `dp` `*2200` | Mar/30/2023 04:14 AM |
